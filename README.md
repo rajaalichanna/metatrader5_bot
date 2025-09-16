@@ -16,5 +16,4 @@ With this bot, you can **send trade commands from Telegram** directly to your MT
 - ✅ **Secure Setup** – Uses bot token & chat ID stored in `.env` file  
 
 
-   git clone https://github.com/your-username/mt-telegram-bot.git
-   cd mt-telegram-bot
+   git clone https://github.com/rajaalichanna/metatrader5_bot/tree/main
